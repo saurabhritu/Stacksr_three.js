@@ -43,7 +43,7 @@ export default class {
     loadFont(fontFile, (err, font) => {
       this.fontGeometry = createGeometry({
         font,
-        text: "Saurabh Ritu"
+        text: "STACKSR"
       });
 
       // Load texture containing font glyps
